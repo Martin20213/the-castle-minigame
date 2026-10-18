@@ -17,6 +17,8 @@ Explore a mysterious castle, solve riddles, and uncover its secrets. But be care
 
 ## 🎮 Gameplay
 
+![The Castle gameplay screenshot](./screen.png)
+
 Your adventure takes you through a mysterious castle, where you must solve three riddles to uncover an ancient secret.
 
 Will you claim the treasure, or become another prisoner of the castle?
